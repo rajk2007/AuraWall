@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuraWall</string>
+    <string name="wallpaper_description">AuraWall depth live wallpaper</string>
+    <string name="pick_image">Pick Wallpaper Image</string>
+    <string name="set_wallpaper">Set as Live Wallpaper</string>
+    <string name="enable_lockscreen">Enable Lock Screen</string>
+    <string name="processing">Processing image…</string>
+</resources>

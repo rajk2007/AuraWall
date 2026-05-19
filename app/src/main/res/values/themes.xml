@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.AuraWall" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#00000000</item>
+    </style>
+</resources>
